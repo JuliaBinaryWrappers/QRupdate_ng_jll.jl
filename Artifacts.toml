@@ -1,0 +1,439 @@
+[[QRupdate_ng]]
+arch = "aarch64"
+git-tree-sha1 = "d86298fc3ab2d9e43c3c0a68db85f45255608e69"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[QRupdate_ng.download]]
+    sha256 = "0fa12389284d12ef2f9b36864a49319991ceb31268d77840ac6aa5b3f52987d5"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "aarch64"
+git-tree-sha1 = "6a84c6c19dc4e6992677081be6a18864bdcc3f27"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "8763df2c953ba68103fe15135c7df39a159f0bbba456ff09c9e383238a6aec62"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "aarch64"
+git-tree-sha1 = "b47ac428462647da4ce27a6a488dc776acda99b8"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "2dd21ecfac809ae1fbd347934e032eb919ff63b490bdb4b5c9464a0cc8438239"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "aarch64"
+git-tree-sha1 = "e0e56d8ad399a1336e10942ac8600e23d448a2ca"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "ef8fd709839b4ee8b06a90c0b46070f72b86fa2b67a4af25adfd8bfd5c137b42"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.aarch64-linux-musl-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "aarch64"
+git-tree-sha1 = "0cf420aeba52ab3a7b8a36941871ab284eef057d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "755b436632807451451f836d026e8464e380187bf74709874d54832709513890"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.aarch64-linux-musl-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9f6c6b2fa80cf468542d278c4173cfa13042e1a5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "9d886a4dee7a3100099c5974f8e18d04eae75cac58de376c0abf183f006c97d9"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ed6908851d2c9c80511cae533d863aeab0172c7b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "9872bdbf796ffb696e461e291920a8f6265656c6b45b877cc7977bc341a19764"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0f1a9be4c1e33b2d12e770d10009c3af18f034c8"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "c2fbc4b33df2b8907c9155a08ece7082b18696feb70a1171b1d6b005e27ce97f"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0d3787372fbcd063d6a049bb094e8586ac60a957"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "85ea7d9d0a00f659a3ae8c35ce32e12008f713ef244b571df59bb512d6b825fc"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "35ec20271410a2f5c534748e8ddad73d7f404b85"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "fe8bd03c12289f3c582a782494dbb4e28225c3f11a66b233e1cf6f3ddd123918"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e9eabc965fe422a260bbac863c4523ed1489de07"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "72c812b91aa8bfc2d674851bf44a12bff62ec6a50a82714f5d879d4ec6847b9a"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d6975f890d27b1d538f96cfe63cbc9667847e720"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "3fd3b00ca6804ee3e4435d53f4626b4aae7e2586c73b5ce330b1b0f42f063e6f"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1e0f849a11dd628b3e5ea7fddf7f4d3ecf3f8d6c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "9a0ae224c027aa057abbd41161069f8d0256d289f9a54569a919d493a6ed3971"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2e19fa4b8ed12a9cfaa1c4d4342164cc9d09de19"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "48aa923a564b49bfedddc64ca25a40ebbf18198ba23277fccf41de6ccea7dd3c"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ae113820f1c54f6e3fd091093f48774fd6db5d3f"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "f5532930318793981563a58a0d0c04ff6edbe09df6491e53ba797fd46de76fc5"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "418210d76a2e58ca4729245967b0a170cc90db09"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "2468f808fcf4891352f32cbc3f05fc7e091dc2d9b8b68ca1cbae2699e6dd0db4"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f31f820b9c2bdea5591aefa5b27206fe5f149bd7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "f4175e85b11b71670bd09550cb01d8e8d9a4cf67f8b67810ac5ece8ef7b5f23b"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "i686"
+git-tree-sha1 = "d56b330c3838673a94fca7109129f75494dba3e0"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "6aa462b385c848b237b8195292b719b22eb7d5846cc4cca4a99306759378e95c"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.i686-linux-gnu-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "i686"
+git-tree-sha1 = "f8e4a6b7646bcfa1863157e6d0ec4284b79e8e6f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "6c1a76b9aa185a2cead84d77205305bb40bdec23067161a24f8cacf528ed683c"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.i686-linux-gnu-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "i686"
+git-tree-sha1 = "8c3d020ab95ae41aad6c873be392b45bf7d807d0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "769aff326dcdea0498473354fd4d961911ab3f0592d2890e5dc2494fde613835"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.i686-linux-gnu-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "i686"
+git-tree-sha1 = "5de260a8cfdacf93b7fecc314155e7be62af5fff"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "d47363770d474d5e3fc6071544cfc1044a4af88948e531d9a727dabbc894c9a5"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.i686-linux-musl-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "i686"
+git-tree-sha1 = "9343d891430d61610f60c87a2142c76eeff433e2"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "9cef27e7ffab17da1213b9b8ac0076e4c41296f20fe2ad2b9f8d40cb00d27fb2"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.i686-linux-musl-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "i686"
+git-tree-sha1 = "bf438a5459fd715ea96e6520153e411b8654bf7f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "4cbf38e877776480bafba558f29ed075c516a2e28c10bd27fb9afd9f7a7afc0d"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.i686-linux-musl-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "i686"
+git-tree-sha1 = "de30f97aba883f944152a54d780be7944164f1ac"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[QRupdate_ng.download]]
+    sha256 = "45ce77dfa0b4519c61189251cb41f6706fcabc15b42413cd6c07f02758aea691"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.i686-w64-mingw32-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "i686"
+git-tree-sha1 = "85e68644a871e388e96f797654b78b8932127d6d"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[QRupdate_ng.download]]
+    sha256 = "4269faee166cd69087aad00dbde2cf9e024b859897cb95998e07e9a4c0eda658"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.i686-w64-mingw32-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "i686"
+git-tree-sha1 = "c0a7f591e228b135c622c702d1d31d7a9366aa9e"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[QRupdate_ng.download]]
+    sha256 = "1598ed87e46c49fed9972ff6bf3e57892628e7470d6889fffab350f0bf930686"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.i686-w64-mingw32-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "powerpc64le"
+git-tree-sha1 = "e13999f6c3c9e7c6ae7fa3da51f9f1bec9ecd470"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "226eff1c217dcf63f7282e551a4c1bccbd48f5951064581c4e8177f8a5a5c5c8"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "powerpc64le"
+git-tree-sha1 = "9510e4cc0ceac28c37af39098cfabf15918deb2e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "d2b2f787203325f6a589f56bae7b4883b1ca744f4c3ac211d00700274ee2e969"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "powerpc64le"
+git-tree-sha1 = "1ada543c9b9815353dfa2034e68a50cdb23ed206"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "5b50f26f62af062495e2a62d076e63339c9d9b6884cbf41c56ffce00caac62f3"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "18e3edc9540b2cb8cc82f78aa70f05d01a8c7ded"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[QRupdate_ng.download]]
+    sha256 = "ee03b532d4b42417a5ee422ba49e3cc2f92b7bbedc7d5f23d5b2221915366c7c"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "c1f58cf120cf160547a3905602b0b493d83ac22f"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[QRupdate_ng.download]]
+    sha256 = "80aa5cb7cf1ecc48a8c7fce2cb9b0982f03323a89bebd4bab814abb2544e0fbd"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "330e3d25825dc23e9059e6d38feb76af2c131e5b"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[QRupdate_ng.download]]
+    sha256 = "06671a434216b10faad461dee123829ecda80a7fcd1c7449f4ddbe87c7705890"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "05243c3aa20c202f6c94400b17c9d76de8edd62d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "029f845d0d364f8633e5cb42c45f05e57186690a779c02fb3156105a1d1247aa"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "cfbccfaeafb4c5a8bd3e23307b3fd5deff5ff353"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "01b7cb28496cdd75a7e19bc1ed4e642d2002fb2fbdb33389bb1e3c1d24d7b4b0"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "d9f2b00dc34fe490b6bf1eab76ef95160d0d1e7f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "ebe25cb661f6ce19def55230e422529e161c3f6f7873eb990d2eb2d2a2727546"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "3ea8b536a4aca09a840fd2264d01cc5822d03687"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "a1dc3278593c646507497207569bb619533b1e22d20460fb612b14999dcd346b"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-linux-musl-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "14419a85cb57a373563467e3592fdedb927c200d"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "13355e7172c0b44118cc8dd146dcd7decc185f00928d51f44ba9b6253d373566"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-linux-musl-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "c9aed0ae95ad0459605bf19f32f03781ef450f2f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QRupdate_ng.download]]
+    sha256 = "6da4a1194c86265692649a64fa16b356e7d1914d7f368caf14b2dafdd4036e9c"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-linux-musl-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "fc9a7fab11ac58ebf6858fdf69f6cd78a1e98b22"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[QRupdate_ng.download]]
+    sha256 = "d4d2c15731a94b65b0674cfee63d99fcb028bc0217578fc16404ab1a3280693d"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "7c8b44224e0c276896138cdd74a78ccaa8e64658"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[QRupdate_ng.download]]
+    sha256 = "33fab9d6f84bc09fda6d8a699887d389edc4668ef02978728b42d6bcf0ee3aca"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "fe5d4fce253d57a661a166702c898d9146907021"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[QRupdate_ng.download]]
+    sha256 = "7457c9b470c8dda3bc23db0cc82bf8281795fb830a073cd9daf4ab2a12c8ecf6"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "eca26057538e4cc62da21f09e649883775f463e2"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[QRupdate_ng.download]]
+    sha256 = "7352ac51bad4e65a568bf110e38a01013f107e9c195d009293c0a3831c986b92"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "2a37c0e545c65cbf0bc03c4b0aa8cfb21955a4f3"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[QRupdate_ng.download]]
+    sha256 = "003150269c8decafabcc51f465e78f8fbcdd284370083b3ece181340de8ebf9b"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[QRupdate_ng]]
+arch = "x86_64"
+git-tree-sha1 = "f0a7a39686d7b8ecfa9826fc24225fa37cf420d0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[QRupdate_ng.download]]
+    sha256 = "35a336b05f3db11308dad011d054863f9d596db7c55c89d1679c4b70d6be6dc8"
+    url = "https://github.com/JuliaBinaryWrappers/QRupdate_ng_jll.jl/releases/download/QRupdate_ng-v1.1.5+0/QRupdate_ng.v1.1.5.x86_64-w64-mingw32-libgfortran5.tar.gz"
